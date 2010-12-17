@@ -1,0 +1,10 @@
+---
+title: Hannah Smithson
+filter:
+  - erb
+  - textile
+---
+
+h2. Research Interests
+
+How do the eye and brain process visual information? My research addresses this question primarily through psychophysical experiments. I am particularly interested in the perception of colour. How are the signals from the three classes of cone photoreceptors processed to give rise to our perceptions of hue, saturation and brightness? What are the neural circuits of comparison and combination that permit the efficient transmission of colour information from retina to cortex? How does our perception of colour depend on our ability to identify objects and light sources in the visual scene? I am also interested in the way in which our visual systems process rapid sequences of visual events - a sequence of changes in illumination, a sequence of images from successive fixations, or the complex trajectory of a moving object.

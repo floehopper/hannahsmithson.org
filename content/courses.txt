@@ -1,0 +1,35 @@
+---
+title:      Courses
+filter:
+  - erb
+  - textile
+---
+h2. <%= @page.title %>
+
+h3. External courses
+
+* *"Using MATLAB and Cambridge Research Systems (CRS) Tools for Vision Science":http://www.crsltd.com/corp-info/training/index.html*<br />
+<br />
+Instructors: "Dr Hannah Smithson":http://www.dur.ac.uk/psychology/staff/?id=2857 and "Dr Bob Kentridge":http://www.dur.ac.uk/psychology/staff/?id=589<br />
+<br />
+A short-course in "MATLAB":http://www.mathworks.com/products/matlab programming for vision science, with emphasis on the "CRS ViSaGe":http://www.crsltd.com/catalog/visage/overview.html and "CRS Video Eyetracker Toolbox":http://www.crsltd.com/catalog/eyetracker-250/index.html systems. The course will run at the end of September each year, in the newly formed CRS Robson Suite at the "Department of Psychology":http://www.dur.ac.uk/psychology, "Durham University":http://www.dur.ac.uk/, UK.<br />
+<br />
+The course will run as a series of practical sessions using worksheets and exercises developed as part of Durham University's "MSc in Cognitive Neuroscience":http://www.dur.ac.uk/psychology/postgraduate/taughtdegrees. Hannah Smithson and Bob Kentridge will be on-hand throughout the course to offer tuition. The first two days will provide a general introduction to MATLAB programming, for people with little or no previous programming experience, or for those new to MATLAB. The last 3-days will focus on using the ViSaGe (including calibration, basic colorimetry, stimulus presentation and animation, response collection, randomization, psychophysical methods), and on using the Video Eyetracker Toolbox. It is expected that the course will be useful for graduate students and post-docs who are starting out in vision research.<br />
+
+h3. Durham University Level-3 Courses
+
+* *"Architecture of Vision":http://www.dur.ac.uk/faculty.handbook/module_description.php?module_code=PSYC3181*<br />
+<br />
+Instructors: "Dr Hannah Smithson":http://www.dur.ac.uk/psychology/staff/?id=2857 and "Dr Bob Kentridge":http://www.dur.ac.uk/psychology/staff/?id=589<br />
+<br />
+* *"Psychology into Schools":http://www.dur.ac.uk/faculty.handbook/module_description/?year=2009&module_code=PSYS3221*<br />
+<br />
+Instructors: "Dr Dan Smith":http://www.dur.ac.uk/psychology/staff/?id=2836 ; "Dr Hannah Smithson":http://www.dur.ac.uk/psychology/staff/?id=2857 and "Dr Alex Easton":http://www.dur.ac.uk/psychology/staff/?id=1944<br />
+<br />
+
+h3. Durham University Level-4 Courses
+
+* *"Matlab Programming for Cognitive Neuroscience":http://www.dur.ac.uk/postgraduate.modules/module_description/?year=2009&module_code=PSYC40815*<br />
+<br />
+Instructors: "Dr Hannah Smithson":http://www.dur.ac.uk/psychology/staff/?id=2857 and "Dr Bob Kentridge":http://www.dur.ac.uk/psychology/staff/?id=589<br />
+<br />

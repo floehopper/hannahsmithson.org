@@ -1,0 +1,39 @@
+---
+title:  People
+filter:
+  - erb
+  - textile
+---
+h2. <%= @page.title %>
+
+h3. Current Lab Members
+
+* *"Dr. Rishi Bhardwaj":http://www.dur.ac.uk/psychology/staff/?id=7857*<br />
+Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
+Funding: "ESRC":http://www.esrc.ac.uk/<br />
+In collaboration with: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/<br />
+Start date: October 2009
+
+* *"Mr. Robert Lee":http://www.dur.ac.uk/psychology/staff/?id=5061*<br />
+Project: "Cortical Colour Processing in Normal Individuals" (PhD)<br />
+Funding: Durham Doctoral Fellowship Scheme<br />
+Start date: October 2006
+
+* *"Ms. Laura Young":http://www.dur.ac.uk/physics/staff/profiles/?id=5648*<br />
+Project: "Astronomical Adaptive Optics Technology and its Application to Human Vision Research" (PhD)<br />
+Funding: "PPARC / STFC":http://www.scitech.ac.uk/ studentship<br />
+Co-supervisors: "Dr. Richard Myers":http://www.dur.ac.uk/physics/staff/profiles/?id=546 (Physics); "Dr. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (Physics)
+<br />Start date: October 2007
+
+h3. Past Lab Members
+
+* *Dr. Wayne Smith*<br />
+Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
+Funding: "ESRC":http://www.esrc.ac.uk/<br />
+In collaboration with: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/<br />
+Dates: October 2007 - November 2008
+
+* *Mr. Tudor Popescu*<br />
+Project: "The Plasticity of the Auditory System" (MRes)<br />
+Funding: Self-funded<br />
+Dates: January 2008 - March 2009

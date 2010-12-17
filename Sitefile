@@ -1,0 +1,11 @@
+
+task :default => :build
+
+desc 'deploy the site to the webserver'
+task :deploy => [:build, 'deploy:rsync']
+
+SITE.user = 'floehopper'
+SITE.host = 'www.hannahsmithson.org'
+SITE.remote_dir = '/var/www/www.hannahsmithson.org/'
+
+# EOF

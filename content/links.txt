@@ -1,0 +1,20 @@
+---
+title:      Links
+filter:
+  - erb
+  - textile
+---
+h2. <%= @page.title %>
+
+* "Colour and Vision Database":http://www.cvrl.org/
+<br />
+* "International Colour Vision Society":http://macboy.uchicago.edu/
+* "Experimental Psychology Society":http://www.eps.ac.uk/
+* "European Conference on Visual Perception":http://ecvp.org/
+* "Fall Vision Meeting":http://www.osavisionmeeting.org/
+* "Association for Research in Vision and Ophthalmology":http://www.arvo.org
+<br />
+* "Journal of Vision":http://www.journalofvision.org 
+<br />
+* "My Durham University Home Page":http://www.dur.ac.uk/psychology/staff/?id=2857
+* "My ResearcherID Profile":http://www.researcherid.com/rid/C-3218-2008

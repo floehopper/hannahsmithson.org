@@ -1,0 +1,46 @@
+---
+title: Publications
+filter:
+  - erb
+  - textile
+---
+
+h2. Publications
+
+* *Latency characteristics of the short-wavelength-sensitive cones and their associated pathways.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2009).<br />"Journal of Vision, 9(12):5, 1-17":http://journalofvision.org/9/12/5/ |  "pdf":/research-papers/LeeMollonZaidiSmithson_2009_S-coneLatency.pdf
+
+* *The effect of notched noise on flicker detection and discrimination.*<br />Smithson HE, Henning GB, MacLeod DIA & Stockman A (2009).<br />"Journal of Vision, 9(5):21, 1-18":http://journalofvision.org/9/5/21/ |  "pdf":/research-papers/SmithsonHenningMacLeodStockman_2009_Flicker.pdf
+
+* *The loss of the PDE6 deactivating enzyme, RGS9, results in precocious light adaptation at low light levels.*<br />Stockman A, Smithson HE, Webster AR, Holder GE, Rana NA, Ripamonti C & Sharpe LT (2008).<br />"Journal of Vision, 8 (1):10, 1-10":http://journalofvision.org/8/1/10/ |  "pdf":/research-papers/StockmanSmithsonWebsterHolderRanaRipamontiSharpe_2008_BradyopsiaRGS9.pdf
+
+* *Residual cone vision without a-transducin.*<br />Stockman A, Smithson HE, Michaelides M, Moore AT, Webster AR & Sharpe LT (2007).<br />"Journal of Vision, 7 (4):8, 1-13":http://journalofvision.org/7/4/8/ |  "pdf":/research-papers/StockmanSmithsonMichaelidesMooreWebsterSharpe_2007_AlphaTransducin.pdf
+
+* *Human cone light adaptation: from behavioral measurements to molecular mechanisms.*<br />Stockman A, Langend&ouml;rfer M, Smithson HE & Sharpe LT (2006).<br />"Journal of Vision, 6 (11), 1194-1213":http://journalofvision.org/6/11/5/ |  "pdf":/research-papers/StockmanLangendorferSmithsonSharpe_2006_LightAdaptation.pdf
+
+* *Transitions between colour categories mapped with a reverse Stroop task.*<br />Smithson HE, Khan SS, Sharpe LT & Stockman A (2006).<br />Visual Neuroscience, 23 (3-4): 453-460 | "pdf":/research-papers/SmithsonKhanSharpeStockman_2006_StroopTransitions.pdf
+
+* *Do magnocellular and parvocellular ganglion cells avoid short-wavelength cone input?*<br />Sun H, Smithson HE, Zaidi Q & Lee BB (2006).<br />Visual Neuroscience, 23 (3-4): 441-446 | "pdf":/research-papers/SunSmithsonZaidiLee_2006_AvoidSInput.pdf
+
+* *Do masks terminate the icon?*<br />Smithson HE & Mollon JD (2006).<br />Quarterly Journal of Experimental Psychology, 59 (1): 150-160 | "pdf":/research-papers/SmithsonMollon_2006_TerminatingIcon.pdf
+
+* *Specificity of cone inputs to macaque retinal ganglion cells.*<br />Sun H, Smithson HE, Zaidi Q & Lee BB (2006).<br />Journal of Neurophysiology, 95: 837-849 | "pdf":/research-papers/SunSmithsonZaidiLee_2006_SpecificityConeInputs.pdf
+
+* *Sensory, computational and cognitive components of human colour constancy.*<br />Smithson HE (2005).<br />Philosophical Transactions of the Royal Society: Biological Sciences, 360 (1458): 1329-1346 | "pdf":/research-papers/Smithson_2005_ColourConstancy.pdf
+
+* *Is the S-opponent chromatic subsystem sluggish?*<br />Smithson HE & Mollon JD (2004).<br />Vision Research, 44 (25): 2919-2929 |  "pdf":/research-papers/SmithsonMollon_2004_ReactionTimes.pdf
+
+* *Photostimulator allowing independent control of rods and the three cone types.*<br />Pokorny J, Smithson HE & Quinlan J (2004).<br />Visual Neuroscience, 21 (3): 263-267 | "pdf":/research-papers/PokornySmithsonQuinlan_2004_Photostimulator.pdf
+
+* *Colour constancy in context: Roles for local adaptation and levels of reference.*<br />Smithson H & Zaidi Q (2004).<br />"Journal of Vision, 4 (9): 693-710":http://journalofvision.org/4/9/3/ | "pdf":/research-papers/SmithsonZaidi_2004_ColourConstancy.pdf
+
+* *How to find a tritan line.*<br />Smithson HE, Sumner P & Mollon JD (2003).<br />In Normal and Defective Colour Vision, Eds: Mollon JD, Pokorny J & Knoblauch K, Oxford University Press, Oxford, UK | "pdf":/research-papers/SmithsonSumnerMollon_2003_TritanLines.pdf
+
+* *Forward and backward masking using brief chromatic stimuli.*<br />Smithson HE & Mollon JD (2001).<br />Color Research and Application, 26 (S): 165-169 | "pdf":/research-papers/SmithsonMollon_2001_ChromaticMasking.pdf
+
+h2. Meeting Reports
+
+* *Guest Editors’ Foreword: Proceedings of the 19th Biennial Symposium of the International Colour Vision Society. Held July 2007 Belém, Brazil.*<br />Silveira LCL, Smithson HE, Ventura DF & Lee BB (2003)<br />Visual Neuroscience, 25 (3): 229-229 | "pdf":/meeting-reports/Smithson_2008_ICVS.pdf
+
+* *Meeting Report: The Fall Vision Meeting, 2002.*<br />Smithson HE (2003)<br />Color Research and Application, 28 (5): 393-395 | "pdf":/meeting-reports/Smithson_2002_FVM.pdf
+
+* *Meeting Report: The Rank Prize Funds Symposium, 1999.*<br />Smithson HE (2000)<br />Color Research and Application, 25 (4): 309-311 | "pdf":/meeting-reports/Smithson_2000_Rank.pdf
