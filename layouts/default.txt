@@ -46,6 +46,8 @@ filter:    erb
        <li><%= link_to_page_unless_current(@pages.find(:filename => 'courses')) %></li>
        <br />
        <li><%= link_to_page_unless_current(@pages.find(:filename => 'links')) %></li>
+       <br />
+       <li><a href="http://durham-house-for-sale.co.uk/">House For Sale</a></li>
      </ul>
      <% if @page.name == 'publications' %>
      <br />
