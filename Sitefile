@@ -1,5 +1,5 @@
 SITE.host = 'hannahsmithson.org'
-SITE.user = 'jamesmead'
+# SITE.user = 'jamesmead'
 SITE.remote_dir = '/var/apps/hannahsmithson.org/'
 
 task :default => :build
