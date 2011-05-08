@@ -7,6 +7,8 @@ filter:
 
 h2. Publications
 
+* *Is there brief temporal buffering of successive visual inputs?*<br />Smith WS, Mollon JD, Bhardwaj R & Smithson HE (2011).<br />Quarterly Journal of Experimental Psychology, 64 (4): 767-791 | "pdf":/research-papers/SmithMollonBhardwajSmithson_2011_BriefTemporalBuffering.pdf
+
 * *Latency characteristics of the short-wavelength-sensitive cones and their associated pathways.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2009).<br />"Journal of Vision, 9(12):5, 1-17":http://journalofvision.org/9/12/5/ |  "pdf":/research-papers/LeeMollonZaidiSmithson_2009_S-coneLatency.pdf
 
 * *The effect of notched noise on flicker detection and discrimination.*<br />Smithson HE, Henning GB, MacLeod DIA & Stockman A (2009).<br />"Journal of Vision, 9(5):21, 1-18":http://journalofvision.org/9/5/21/ |  "pdf":/research-papers/SmithsonHenningMacLeodStockman_2009_Flicker.pdf
