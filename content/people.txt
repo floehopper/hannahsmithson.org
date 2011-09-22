@@ -11,29 +11,43 @@ h3. Current Lab Members
 * *"Dr. Rishi Bhardwaj":http://www.dur.ac.uk/psychology/staff/?id=7857*<br />
 Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
 Funding: "ESRC":http://www.esrc.ac.uk/<br />
-In collaboration with: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/<br />
+PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
+Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
 Start date: October 2009
 
-* *"Mr. Robert Lee":http://www.dur.ac.uk/psychology/staff/?id=5061*<br />
-Project: "Cortical Colour Processing in Normal Individuals" (PhD)<br />
-Funding: Durham Doctoral Fellowship Scheme<br />
-Start date: October 2006
+* *Dr. Robert Lee*<br />
+Project: Colour appearance in a dynamic world<br />
+Funding: "Wellcome Trust":http://www.wellcome.ac.uk/<br />
+PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
+Co-I: "Dr. Nick Holliman":http://www.dur.ac.uk/n.s.holliman/ (University of Durham)<br />
+Collaborators: "Prof. Qasim Zaidi":http://www.sunyopt.edu/research/zaidi/ (SUNY College of Optometry) and "Prof. Marty Banks":http://bankslab.berkeley.edu/ (UC Berkeley)<br />
+Start date: July 2011
 
-* *"Ms. Laura Young":http://www.dur.ac.uk/physics/staff/profiles/?id=5648*<br />
-Project: "Astronomical Adaptive Optics Technology and its Application to Human Vision Research" (PhD)<br />
+h3. Current Graduate Students
+
+* *"Laura Young":http://www.dur.ac.uk/physics/staff/profiles/?id=5648*<br />
+Project: Astronomical Adaptive Optics Technology and its Application to Human Vision Research (PhD)<br />
 Funding: "PPARC / STFC":http://www.scitech.ac.uk/ studentship<br />
-Co-supervisors: "Dr. Richard Myers":http://www.dur.ac.uk/physics/staff/profiles/?id=546 (Physics); "Dr. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (Physics)
-<br />Start date: October 2007
+Co-supervisors: "Dr. Richard Myers":http://www.dur.ac.uk/physics/staff/profiles/?id=546 and "Prof. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (University of Durham)<br />
+Start date: October 2007
 
-h3. Past Lab Members
+h3. Previous Lab Members
 
 * *Dr. Wayne Smith*<br />
 Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
 Funding: "ESRC":http://www.esrc.ac.uk/<br />
-In collaboration with: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/<br />
+PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
+Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
 Dates: October 2007 - November 2008
 
-* *Mr. Tudor Popescu*<br />
-Project: "The Plasticity of the Auditory System" (MRes)<br />
+h3. Previous Graduate Students
+
+* *Robert Lee*<br />
+Project: Cortical Colour Processing in Normal Individuals (PhD)<br />
+Funding: Durham Doctoral Fellowship Scheme<br />
+Start date: October 2006 - January 2010
+
+* *"Tudor Popescu":http://cohenkadosh.psy.ox.ac.uk/Tudor%20Popescu*<br />
+Project: The Plasticity of the Auditory System (MRes)<br />
 Funding: Self-funded<br />
 Dates: January 2008 - March 2009
