@@ -20,7 +20,7 @@ filter:    erb
 
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
-   
+
    <!-- Google Webmaster Tools -->
    <meta name="verify-v1" content="ZaMa4g1tiG+okTFFWM7HTgHvzeZ5DHVHY+ea8BuPip4=" />
 </head>
@@ -46,8 +46,6 @@ filter:    erb
        <li><%= link_to_page_unless_current(@pages.find(:filename => 'courses')) %></li>
        <br />
        <li><%= link_to_page_unless_current(@pages.find(:filename => 'links')) %></li>
-       <br />
-       <li><a href="http://durham-house-for-sale.co.uk/">House For Sale</a></li>
      </ul>
      <% if @page.name == 'publications' %>
      <br />
@@ -56,7 +54,7 @@ filter:    erb
      </span>
      <% end %>
    </div>
-     
+
    <div class="column span-15 append-2 last" id="content">
       <%= @content %>
    </div>
