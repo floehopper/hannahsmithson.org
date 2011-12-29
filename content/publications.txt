@@ -7,7 +7,9 @@ filter:
 
 h2. Publications
 
-* *Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli*<br />Atkinson AP, Vuong QC & Smithson HE (2012).<br />NeuroImage, 59: 1700-1712 | "pdf":/research-papers/AtkinsonVuongSmithson_2012_PointlightEmotion.pdf
+* *Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli.*<br />Atkinson AP, Vuong QC & Smithson HE (2012).<br />NeuroImage, 59: 1700-1712 | "pdf":/research-papers/AtkinsonVuongSmithson_2012_PointlightEmotion.pdf
+
+* *Not all aberrations are equal: Reading impairment depends on aberration type and magnitude.*<br />Young LK, Liversedge SP, Love GD, Myers RM & Smithson HE (2011).<br />"Journal of Vision, 11(13):20, 1-19":http://journalofvision.org/content/11/13/20/ |  "pdf":/research-papers/YoungLiversedgeLoveMyersSmithson_2011_Reading.pdf
 
 * *Is there brief temporal buffering of successive visual inputs?*<br />Smith WS, Mollon JD, Bhardwaj R & Smithson HE (2011).<br />Quarterly Journal of Experimental Psychology, 64 (4): 767-791 | "pdf":/research-papers/SmithMollonBhardwajSmithson_2011_BriefTemporalBuffering.pdf
 
