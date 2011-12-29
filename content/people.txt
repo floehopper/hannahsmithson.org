@@ -8,13 +8,6 @@ h2. <%= @page.title %>
 
 h3. Current Lab Members
 
-* *"Dr. Rishi Bhardwaj":http://www.dur.ac.uk/psychology/staff/?id=7857*<br />
-Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
-Funding: "ESRC":http://www.esrc.ac.uk/<br />
-PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
-Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
-Start date: October 2009
-
 * *Dr. Robert Lee*<br />
 Project: Colour appearance in a dynamic world<br />
 Funding: "Wellcome Trust":http://www.wellcome.ac.uk/<br />
@@ -23,13 +16,16 @@ Co-I: "Dr. Nick Holliman":http://www.dur.ac.uk/n.s.holliman/ (University of Durh
 Collaborators: "Prof. Qasim Zaidi":http://www.sunyopt.edu/research/zaidi/ (SUNY College of Optometry) and "Prof. Marty Banks":http://bankslab.berkeley.edu/ (UC Berkeley)<br />
 Start date: July 2011
 
+* *Dr. Laura Young*<br />
+Project: Using instrumentation from astronomy to understand the control of human eye-movements<br />
+Funding: "John Fell Fund":http://www.admin.ox.ac.uk/pras/jff/<br />
+PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
+Collaborators: "Prof. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (University of Durham); "Prof. Niranjan Thatte":http://www.physics.ox.ac.uk/astro/people/NiranjanThatte.htm (Oxford Astrophysics); "Dr. Martin Booth":http://www.imaging.ox.ac.uk/network-members/mbooth/ (Oxford Biomedical Imaging Network, Engineering) and "Prof. Robert MacLaren":http://www.eye.ox.ac.uk/peoplefolder/robert-maclaren (Department of Ophthalmology)
+Start date: January 2012
+
 h3. Current Graduate Students
 
-* *"Laura Young":http://www.dur.ac.uk/physics/staff/profiles/?id=5648*<br />
-Project: Astronomical Adaptive Optics Technology and its Application to Human Vision Research (PhD)<br />
-Funding: "PPARC / STFC":http://www.scitech.ac.uk/ studentship<br />
-Co-supervisors: "Dr. Richard Myers":http://www.dur.ac.uk/physics/staff/profiles/?id=546 and "Prof. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (University of Durham)<br />
-Start date: October 2007
+None
 
 h3. Previous Lab Members
 
@@ -40,7 +36,20 @@ PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
 Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
 Dates: October 2007 - November 2008
 
+* *"Dr. Rishi Bhardwaj":http://www.dur.ac.uk/psychology/staff/?id=7857*<br />
+Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
+Funding: "ESRC":http://www.esrc.ac.uk/<br />
+PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
+Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
+Dates: October 2009 - November 2011
+
 h3. Previous Graduate Students
+
+* *Laura Young*<br />
+Project: Astronomical Adaptive Optics Technology and its Application to Human Vision Research (PhD)<br />
+Funding: "PPARC / STFC":http://www.scitech.ac.uk/ studentship<br />
+Co-supervisors: "Dr. Richard Myers":http://www.dur.ac.uk/physics/staff/profiles/?id=546 and "Prof. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (University of Durham)<br />
+Dates: October 2007 - August 2011
 
 * *Robert Lee*<br />
 Project: Cortical Colour Processing in Normal Individuals (PhD)<br />
