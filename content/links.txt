@@ -9,6 +9,7 @@ h2. <%= @page.title %>
 * "Colour and Vision Database":http://www.cvrl.org/
 <br />
 * "International Colour Vision Society":http://macboy.uchicago.edu/
+* "Applied Vision Association":http://www.theava.net/
 * "Experimental Psychology Society":http://www.eps.ac.uk/
 * "European Conference on Visual Perception":http://ecvp.org/
 * "Fall Vision Meeting":http://www.osavisionmeeting.org/
