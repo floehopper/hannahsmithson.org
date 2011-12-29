@@ -16,5 +16,8 @@ h2. <%= @page.title %>
 <br />
 * "Journal of Vision":http://www.journalofvision.org 
 <br />
-* "My Durham University Home Page":http://www.dur.ac.uk/psychology/staff/?id=2857
+* "Oxford University - Department of Experimental Psychology":http://www.psy.ox.ac.uk/
+* "Oxford University - Pembroke College":http://www.pmb.ox.ac.uk/
+<br />
+* "My Pembroke College Home Page":http://www.pmb.ox.ac.uk/Fellows_Staff/index.php?profile=306
 * "My ResearcherID Profile":http://www.researcherid.com/rid/C-3218-2008
