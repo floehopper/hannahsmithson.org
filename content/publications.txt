@@ -7,6 +7,8 @@ filter:
 
 h2. Publications
 
+* *Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli*<br />Atkinson AP, Vuong QC & Smithson HE (2012).<br />NeuroImage, 59: 1700-1712 | "pdf":/research-papers/AtkinsonVuongSmithson_2012_PointlightEmotion.pdf
+
 * *Is there brief temporal buffering of successive visual inputs?*<br />Smith WS, Mollon JD, Bhardwaj R & Smithson HE (2011).<br />Quarterly Journal of Experimental Psychology, 64 (4): 767-791 | "pdf":/research-papers/SmithMollonBhardwajSmithson_2011_BriefTemporalBuffering.pdf
 
 * *Latency characteristics of the short-wavelength-sensitive cones and their associated pathways.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2009).<br />"Journal of Vision, 9(12):5, 1-17":http://journalofvision.org/9/12/5/ |  "pdf":/research-papers/LeeMollonZaidiSmithson_2009_S-coneLatency.pdf
