@@ -7,6 +7,10 @@ filter:
 
 h2. Publications
 
+* *Context-dependent judgments of color that might allow color constancy in scenes with multiple regions of illumination.*<br />Lee RJ & Smithson HE (2012).<br />Journal of the Optical Society of America (A), 29 (2): A247-A257 | "pdf":/research-papers/LeeSmithson_2012_MultipleReferencesForColour.pdf
+
+* *Slow updating of the achromatic point after a change in illumination.*<br />Lee RJ, Dawson KA & Smithson HE (2012).<br />"Journal of Vision, 12(1):19 1-22":http://www.journalofvision.org/content/12/1/19 | "pdf":/research-papers/LeeDawsonSmithson_2012_SlowUpdating.pdf
+
 * *Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli.*<br />Atkinson AP, Vuong QC & Smithson HE (2012).<br />NeuroImage, 59: 1700-1712 | "pdf":/research-papers/AtkinsonVuongSmithson_2012_PointlightEmotion.pdf
 
 * *Not all aberrations are equal: Reading impairment depends on aberration type and magnitude.*<br />Young LK, Liversedge SP, Love GD, Myers RM & Smithson HE (2011).<br />"Journal of Vision, 11(13):20, 1-19":http://journalofvision.org/content/11/13/20/ |  "pdf":/research-papers/YoungLiversedgeLoveMyersSmithson_2011_Reading.pdf
