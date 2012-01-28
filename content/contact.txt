@@ -1,0 +1,23 @@
+---
+title: Contact
+filter:
+  - erb
+  - textile
+---
+h2. <%= @page.title %>
+
+*University Lecturer in Perception*
+"Department of Experimental Psychology":http://www.psy.ox.ac.uk/
+South Parks Road
+Oxford
+OX1 3UD
+01865 271316
+<%= render :partial => "psychology_email" %>
+
+*Tutorial Fellow*
+"Pembroke College":http://www.pmb.ox.ac.uk/
+Oxford
+OX1 1DW
+<%= render :partial => "pembroke_email" %> | "Web":http://www.pmb.ox.ac.uk/Fellows_Staff/index.php?profile=306
+
+<br />
