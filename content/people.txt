@@ -4,9 +4,8 @@ filter:
   - erb
   - textile
 ---
-h2. <%= @page.title %>
 
-h3. Current Lab Members
+h2. Current lab members
 
 * *Dr. Robert Lee*<br />
 Project: Colour appearance in a dynamic world<br />
@@ -23,11 +22,11 @@ PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
 Collaborators: "Prof. Gordon Love":http://www.dur.ac.uk/physics/staff/profiles/?id=246 (University of Durham); "Prof. Niranjan Thatte":http://www.physics.ox.ac.uk/astro/people/NiranjanThatte.htm (Oxford Astrophysics); "Dr. Martin Booth":http://www.imaging.ox.ac.uk/network-members/mbooth/ (Oxford Biomedical Imaging Network, Engineering) and "Prof. Robert MacLaren":http://www.eye.ox.ac.uk/peoplefolder/robert-maclaren (Department of Ophthalmology)
 Start date: January 2012
 
-h3. Current Graduate Students
+h2. Current graduate students
 
 None
 
-h3. Previous Lab Members
+h2. Previous lab members
 
 * *Dr. Wayne Smith*<br />
 Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
@@ -43,7 +42,7 @@ PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
 Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
 Dates: October 2009 - November 2011
 
-h3. Previous Graduate Students
+h2. Previous graduate students
 
 * *Laura Young*<br />
 Project: Astronomical Adaptive Optics Technology and its Application to Human Vision Research (PhD)<br />

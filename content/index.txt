@@ -5,6 +5,10 @@ filter:
   - textile
 ---
 
-h2. Research Interests
+h2. Research interests
 
 How do the eye and brain process visual information? My research addresses this question primarily through psychophysical experiments. I am particularly interested in the perception of colour. How are the signals from the three classes of cone photoreceptors processed to give rise to our perceptions of hue, saturation and brightness? What are the neural circuits of comparison and combination that permit the efficient transmission of colour information from retina to cortex? How does our perception of colour depend on our ability to identify objects and light sources in the visual scene? I am also interested in the way in which our visual systems process rapid sequences of visual events - a sequence of changes in illumination, a sequence of images from successive fixations, or the complex trajectory of a moving object.
+
+h2. Biography
+
+My first degree was in Natural Sciences (University of Cambridge: 1993-1996). I was introduced to visual science in my final undergraduate year by John Mollon, under whose supervision I subsequently studied for a doctoral degree on visual masking (University of Cambridge: 1996-2000). I spent two years as a post-doc in the USA, with Joel Pokorny in Chicago working on colour adaptation (University of Chicago: 2000-2001), and with Qasim Zaidi in New York City working on colour constancy (SUNY College of Optometry: 2001-2002). I returned to the UK as an Affiliated Lecturer at Cambridge (2002-2003), before moving to London to work with Andrew Stockman on adaptation (Institute of Ophthalmology, UCL: 2003-2005). I took my first lectureship at Durham University (Lecturer 2005-2009; Senior Lecturer 2009-2011) and moved from there to the University of Oxford, where I am currently a University Lecturer in Perception and Tutorial Fellow at Pembroke. In 2011 I was awarded the Applied Vision Association’s David Marr Medal.

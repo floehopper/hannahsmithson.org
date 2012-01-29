@@ -5,49 +5,15 @@ filter:
   - textile
 ---
 
-h2. Published Abstracts
+h2. Invited talks
 
-* *The role of stimulus history in colour constancy.*<br />Smithson HE (2009).<br />"Journal of Vision, 9(14):9, 9a":http://journalofvision.org/9/14/9/
+* *Colour now and then: Time-dependent transformations of colour appearance.*<br />Smithson HE (Forthcoming: 2012).<br />SVG (Scottish Vision Group) 11th Meeting, Deeside, Scotland, UK.
 
-* *Chromatic appearance depends on the rate of change of the colour signal (the "slew" rate).*<br />Stockman A, Smithson HE, Aboshiha J, West P & Ripamonti C (2008).<br />"Journal of Vision, 8(6):1098, 1098a":http://journalofvision.org/8/6/1098
+* *Transformations of colour.*<br />Smithson HE (2011).<br />David Marr Medal Talk, AVA (Applied Vision Association) 16th Christmas Meeting, York, UK.
 
-* *Adaptation of central colour channels.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2007).<br />"Perception, 36, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v070285
+* *Spatial and temporal adjustments to colour appearance.*<br />Smithson HE & Lee RJ (2010).<br />European Conference on Visual Perception, Lausanne, Switzerland.
 
-* *Colour slew-rate: chromatic pathways are limited by a maximum rate at which they can signal changes in colour.*<br />Stockman A, Smithson HE, Aboshiha J, West P & Ripamonti C (2007).<br />"Perception, 36, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v070255
-
-* *Flicker-clicker: matching the frequency and phase of visual and auditory stimuli.*<br />Smithson HE & Stockman A (2007).<br />"Perception, 36, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v070539
-
-* *Transient tritanopia of a second kind redux: Delayed loss of S-cone sensitivity after long-wavelength field onset is consistent with the sluggish generation of an active photoproduct within the L- and M-cones.*<br />Stockman A & Smithson HE (2006).<br />"Journal of Vision, 6(13):5, 5a":http://journalofvision.org/6/13/5/
-
-* *Using Stroop tasks to reveal the structure of colour space.*<br />Smithson HE, Sharpe LT & Mollon JD (2006).<br />"Perception, ECVP Supplement, pg. 176":http://www.perceptionweb.com/ecvp06/ecvp06.pdf
-
-* *Second sight: Vision sustained by a secondary activation of the phototransduction cascade.*<br />Stockman A, Sharpe LT, Michaelides M, Moore A T, Webster AR, & Smithson HE (2006).<br />"Journal of Vision, 6(6), 120a":http://journalofvision.org/6/6/120/
-
-* *What’s special about S-cone vision?*<br />Smithson HE (2005).<br />"Journal of Vision, 5(12), 18a":http://journalofvision.org/5/12/18/
-
-* *Three ways to find a tritan line.*<br />Smithson H, Bourke A, Zaidi Q, Mollon J & Stockman A (2004).<br />"Journal of Vision, 4(11), 83a":http://journalofvision.org/4/11/83/
-
-* *Flicker-clicker: cross modality matching experiments.*<br />Stockman A, Williams M & Smithson H (2004).<br />"Journal of Vision, 4(11), 86a":http://journalofvision.org/4/11/86/
-
-* *Do masks terminate the icon?*<br />Smithson HE & Mollon JD (2004).<br />"Perception, 33, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v040548
-
-* *Roles for local adaptation and levels of reference in colour constancy*<br />Zaidi Q & Smithson HE (2004).<br />"Perception, 33, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v040369
-
-* *A new technique for measuring cone inputs to visual neurons.*<br />Sun H, Smithson H, Lee B & Zaidi Q (2004)<br />"Investigative Ophthalmology & Visual Science. 45: E-Abstract 4277":http://abstracts.iovs.org/cgi/content/abstract/45/5/4277
-
-* *Effects of temporal and spatial context on color appearance.*<br />Smithson H & Zaidi Q, (2003).<br />"Journal of Vision, 3 (12), 51a":http://journalofvision.org/3/12/51/
-
-* *A new technique for measuring cone inputs to visual neurons.*<br />Sun H, Smithson H, Lee BB & Zaidi Q (2003).<br />"Journal of Vision, 3 (12), 42a":http://journalofvision.org/3/12/42/
-
-* *Psychophysical assessment of the L:M weighting of inputs to the ON and OFF S-cone pathways.*<br />Smithson H & Pokorny J (2002).<br />"Journal of Vision, 2 (10), 54a":http://journalofvision.org/2/10/54/
-
-* *How to find a tritan confusion line.*<br />Smithson HE, Sumner P & Mollon JD (2002).<br />"Investigative Ophthalmology & Visual Science. 43: E-Abstract 2955":http://abstracts.iovs.org/cgi/content/abstract/43/12/2955
-
-* *Partitions of object color space under illuminant and background changes.*<br />Smithson H & Zaidi Q (2002).<br />"Journal of Vision, 2 (7), 141a":http://journalofvision.org/2/7/141/
-
-* *Reaction times to brief chromatic stimuli.*<br />Smithson HE & Mollon JD (2001).<br />Investigative Ophthalmology & Visual Science. 42 (4): 532 Supplement.
-
-h2. Invited Talks
+* *Colour appearance in a changing world.*<br />Smithson HE (2010).<br />Gordon Research Conference, Sensory Coding & The Natural Environment, Lewiston, USA.
 
 * *The role of stimulus history in colour constancy.*<br />Smithson HE (2009).<br />Fall Vision Meeting 2009, Seattle, Washington, USA.
 
@@ -61,19 +27,25 @@ h2. Invited Talks
 
 * *Backward and forward masking with brief chromatic stimuli.*<br />Smithson HE (1999).<br />The Rank Prize Funds, Opto-Electronics Symposium on Individual Differences in Colour Perception, UK.
 
-h2. Conference Presentations
+h2. Conference presentations
 
-* *Adaptation of higher order colour mechanisms*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2009).<br />International Colour Vision Society 30th Symposium, Braga, Portugal.
+* *A three-dimensional colour space from the 13th Century*<br />Smithson HE, Gasper G, Huxtable M & Mcleish T (2011).<br />International Colour Vision Society 21st Symposium, Kongsburg, Norway.
 
-* *Temporal characteristics of the short-wavelength-sensitive cones and their associated pathways*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2009).<br />International Colour Vision Society 30th Symposium, Braga, Portugal.
+* *Multiple perceptual references for colour in space and time*<br />Lee RJ & Smithson HE (2011).<br />International Colour Vision Society 21st Symposium, Kongsburg, Norway.
 
-* *Why is colour perception slow?*<br />Stockman A, Smithson HE & Ripamonti A (2009).<br />International Colour Vision Society 30th Symposium, Braga, Portugal.
+* *Colour appearance in a changing world.*<br />Smithson HE & Lee RJ (2010).<br />Colour Group of Great Britain, London, UK.
 
-* *Keeping track of colour contexts.*<br />Smithson HE & Lee RJ (2007).<br />International Colour Vision Society 29th Symposium, Belem, Brazil.
+* *Adaptation of higher order colour mechanisms*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE* (2009).<br />International Colour Vision Society 20th Symposium, Braga, Portugal.
 
-* *The special status of the cardinal axes.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2007).<br />International Colour Vision Society 29th Symposium, Belem, Brazil.
+* *Temporal characteristics of the short-wavelength-sensitive cones and their associated pathways*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2009).<br />International Colour Vision Society 20th Symposium, Braga, Portugal.
 
-* *Adaptation of central colour channels.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2007).<br />Smith-Pokorny Symposium, Chicago, USA.
+* *Why is colour perception slow?*<br />Stockman A, Smithson HE & Ripamonti A (2009).<br />International Colour Vision Society 20th Symposium, Braga, Portugal.
+
+* *Keeping track of colour contexts.*<br />Smithson HE & Lee RJ (2007).<br />International Colour Vision Society 19th Symposium, Belem, Brazil.
+
+* *The special status of the cardinal axes.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2007).<br />International Colour Vision Society 19th Symposium, Belem, Brazil.
+
+* *Adaptation of central colour channels.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE* (2007).<br />Smith-Pokorny Symposium, Chicago, USA.
 
 * *The relative roles of temporal and spatial context in determining colour appearance.*<br />Smithson HE (2007).<br />Colour Group of Great Britain, Cambridge, UK.
 
@@ -83,9 +55,9 @@ h2. Conference Presentations
 
 * *Rod and cone spatial frequency sensitivity loss over the first seven years following retinal reattachment.*<br />Weir R, Smithson H, Bird A, Stockman A & Sharpe LT (2005).<br />European Association for Vision and Eye Research, Vilamoura, Portugal.
 
-* *Colour space mapped by the reverse Stroop effect.*<br />Smithson HE, Khan SS, Sharpe LT & Stockman A (2005)<br />International Colour Vision Society 28th Symposium, Lyon, France.
+* *Colour space mapped by the reverse Stroop effect.*<br />Smithson HE, Khan SS, Sharpe LT & Stockman A (2005)<br />International Colour Vision Society 18th Symposium, Lyon, France.
 
-* *Do the MC and PC pathways deliberately avoid S-cone input?*<br />Sun H, Lee BB, Smithson HE & Zaidi Q (2005).<br />International Colour Vision Society 28th Symposium, Lyon, France.
+* *Do the MC and PC pathways deliberately avoid S-cone input?*<br />Sun H, Lee BB, Smithson HE & Zaidi Q (2005).<br />International Colour Vision Society 18th Symposium, Lyon, France.
 
 * *Colour constancy in context: roles for local adaptation and levels of reference.*<br />Smithson HE & Zaidi Q (2004)<br />Colour Group of Great Britain, London, UK.
 
@@ -95,15 +67,9 @@ h2. Conference Presentations
 
 * *Locating the tritan confusion line.*<br />Smithson HE & Mollon JD (2002).<br />Experimental Psychology Society Meeting, Cambridge, UK.
 
-* *Locating the tritan line with transient tritanopia.*<br />Smithson HE, Sumner P & Mollon JD (2001).<br />International Colour Vision Society 26th Symposium, Cambridge, United Kingdom.
+* *Locating the tritan line with transient tritanopia.*<br />Smithson HE, Sumner P & Mollon JD (2001).<br />International Colour Vision Society 16th Symposium, Cambridge, United Kingdom.
 
-* *Chromatic selectivity of forward and backward masking.*<br />Smithson HE & Mollon JD (1999).<br />International Colour Vision Society 25th Symposium, Gottingen, Germany.
-
-* *Keeping track of colour contexts.*<br />Smithson HE & Lee RJ (2007).<br />ICVS, Belem, Brazil.
-
-* *The special status of the cardinal axes.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2007).<br />ICVS, Belem, Brazil.
-
-* *Adaptation of central colour channels.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE* (2007).<br />Smith-Pokorny Symposium, Chicago, USA
+* *Chromatic selectivity of forward and backward masking.*<br />Smithson HE & Mollon JD (1999).<br />International Colour Vision Society 15th Symposium, Gottingen, Germany.
 
 h2. Seminars
 

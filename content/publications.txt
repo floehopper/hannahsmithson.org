@@ -5,7 +5,7 @@ filter:
   - textile
 ---
 
-h2. Publications
+h2. Peer-reviewed publications
 
 * *Context-dependent judgments of color that might allow color constancy in scenes with multiple regions of illumination.*<br />Lee RJ & Smithson HE (2012).<br />Journal of the Optical Society of America (A), 29 (2): A247-A257 | "pdf":/research-papers/LeeSmithson_2012_MultipleReferencesForColour.pdf
 
@@ -47,10 +47,64 @@ h2. Publications
 
 * *Forward and backward masking using brief chromatic stimuli.*<br />Smithson HE & Mollon JD (2001).<br />Color Research and Application, 26 (S): 165-169 | "pdf":/research-papers/SmithsonMollon_2001_ChromaticMasking.pdf
 
-h2. Meeting Reports
+h2. Meeting reports
 
 * *Guest Editors’ Foreword: Proceedings of the 19th Biennial Symposium of the International Colour Vision Society. Held July 2007 Belém, Brazil.*<br />Silveira LCL, Smithson HE, Ventura DF & Lee BB (2003)<br />Visual Neuroscience, 25 (3): 229-229 | "pdf":/meeting-reports/Smithson_2008_ICVS.pdf
 
 * *Meeting Report: The Fall Vision Meeting, 2002.*<br />Smithson HE (2003)<br />Color Research and Application, 28 (5): 393-395 | "pdf":/meeting-reports/Smithson_2002_FVM.pdf
 
 * *Meeting Report: The Rank Prize Funds Symposium, 1999.*<br />Smithson HE (2000)<br />Color Research and Application, 25 (4): 309-311 | "pdf":/meeting-reports/Smithson_2000_Rank.pdf
+
+h2. Published abstracts
+
+* *Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli.*<br />Atkinson A, Vuong Q & Smithson H (2011).<br />"Perception, 40 ECVP Abstract Supplement, 70":http://www.perceptionweb.com/abstract.cgi?id=v110054
+
+* *Sensory memory for motion trajectories.*<br />Bhardwaj R, Mollon JD & Smithson H (2011).<br />"Perception, 40 ECVP Abstract Supplement, 126":http://www.perceptionweb.com/abstract.cgi?id=v110418
+
+* *Using Stroop interference to reveal cognitive colour spaces.*<br />Smithson HE & Stockman A (2010).<br />"Journal of Vision, 10(15):7":http://www.journalofvision.org/10/15/7
+
+* *Spatial and temporal adjustments to colour appearance.*<br />Smithson HE & Lee RJ (2010).<br />"Perception, 39, ECVP Abstract Supplement, 13":http://www.perceptionweb.com/abstract.cgi?id=v100637
+
+* *Target and mask interaction at different cortical levels in sensory storage.*<br />Bhardwaj R, Mollon JD & Smithson HE (2010).<br />"Perception, 39, ECVP Abstract Supplement, 62":http://www.perceptionweb.com/abstract.cgi?id=v100201
+
+* *Part-report for successive visual inputs.*<br />Smith W, Mollon JD & Smithson HE* (2009).<br />"AVA (Applied Vision Association) 14th Christmas Meeting. Perception 39, AVA Abstract":http://www.perceptionweb.com/abstract.cgi?id=ava09
+
+* *The role of stimulus history in colour constancy.*<br />Smithson HE (2009).<br />"Journal of Vision, 9(14):9, 9a":http://journalofvision.org/9/14/9/
+
+* *Chromatic appearance depends on the rate of change of the colour signal (the "slew" rate).*<br />Stockman A, Smithson HE, Aboshiha J, West P & Ripamonti C (2008).<br />"Journal of Vision, 8(6):1098, 1098a":http://journalofvision.org/8/6/1098
+
+* *Adaptation of central colour channels.*<br />Lee RJ, Mollon JD, Zaidi Q & Smithson HE (2007).<br />"Perception, 36, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v070285
+
+* *Colour slew-rate: chromatic pathways are limited by a maximum rate at which they can signal changes in colour.*<br />Stockman A, Smithson HE, Aboshiha J, West P & Ripamonti C (2007).<br />"Perception, 36, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v070255
+
+* *Flicker-clicker: matching the frequency and phase of visual and auditory stimuli.*<br />Smithson HE & Stockman A (2007).<br />"Perception, 36, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v070539
+
+* *Transient tritanopia of a second kind redux: Delayed loss of S-cone sensitivity after long-wavelength field onset is consistent with the sluggish generation of an active photoproduct within the L- and M-cones.*<br />Stockman A & Smithson HE (2006).<br />"Journal of Vision, 6(13):5, 5a":http://journalofvision.org/6/13/5/
+
+* *Using Stroop tasks to reveal the structure of colour space.*<br />Smithson HE, Sharpe LT & Mollon JD (2006).<br />"Perception, ECVP Supplement, pg. 176":http://www.perceptionweb.com/ecvp06/ecvp06.pdf
+
+* *Second sight: Vision sustained by a secondary activation of the phototransduction cascade.*<br />Stockman A, Sharpe LT, Michaelides M, Moore A T, Webster AR, & Smithson HE (2006).<br />"Journal of Vision, 6(6), 120a":http://journalofvision.org/6/6/120/
+
+* *What’s special about S-cone vision?*<br />Smithson HE (2005).<br />"Journal of Vision, 5(12), 18a":http://journalofvision.org/5/12/18/
+
+* *Three ways to find a tritan line.*<br />Smithson H, Bourke A, Zaidi Q, Mollon J & Stockman A (2004).<br />"Journal of Vision, 4(11), 83a":http://journalofvision.org/4/11/83/
+
+* *Flicker-clicker: cross modality matching experiments.*<br />Stockman A, Williams M & Smithson H (2004).<br />"Journal of Vision, 4(11), 86a":http://journalofvision.org/4/11/86/
+
+* *Do masks terminate the icon?*<br />Smithson HE & Mollon JD (2004).<br />"Perception, 33, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v040548
+
+* *Roles for local adaptation and levels of reference in colour constancy*<br />Zaidi Q & Smithson HE (2004).<br />"Perception, 33, ECVP Abstract Supplement":http://www.perceptionweb.com/abstract.cgi?id=v040369
+
+* *A new technique for measuring cone inputs to visual neurons.*<br />Sun H, Smithson H, Lee B & Zaidi Q (2004)<br />"Investigative Ophthalmology & Visual Science. 45: E-Abstract 4277":http://abstracts.iovs.org/cgi/content/abstract/45/5/4277
+
+* *Effects of temporal and spatial context on color appearance.*<br />Smithson H & Zaidi Q, (2003).<br />"Journal of Vision, 3 (12), 51a":http://journalofvision.org/3/12/51/
+
+* *A new technique for measuring cone inputs to visual neurons.*<br />Sun H, Smithson H, Lee BB & Zaidi Q (2003).<br />"Journal of Vision, 3 (12), 42a":http://journalofvision.org/3/12/42/
+
+* *Psychophysical assessment of the L:M weighting of inputs to the ON and OFF S-cone pathways.*<br />Smithson H & Pokorny J (2002).<br />"Journal of Vision, 2 (10), 54a":http://journalofvision.org/2/10/54/
+
+* *How to find a tritan confusion line.*<br />Smithson HE, Sumner P & Mollon JD (2002).<br />"Investigative Ophthalmology & Visual Science. 43: E-Abstract 2955":http://abstracts.iovs.org/cgi/content/abstract/43/12/2955
+
+* *Partitions of object color space under illuminant and background changes.*<br />Smithson H & Zaidi Q (2002).<br />"Journal of Vision, 2 (7), 141a":http://journalofvision.org/2/7/141/
+
+* *Reaction times to brief chromatic stimuli.*<br />Smithson HE & Mollon JD (2001).<br />Investigative Ophthalmology & Visual Science. 42 (4): 532 Supplement.
