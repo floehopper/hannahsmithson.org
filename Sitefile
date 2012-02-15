@@ -1,6 +1,7 @@
 SITE.host = 'hannahsmithson.org'
 # SITE.user = 'jamesmead'
 SITE.remote_dir = '/var/apps/hannahsmithson.org/'
+SITE.rsync_args = ['-rlgoDv']
 
 task :default => :build
 
