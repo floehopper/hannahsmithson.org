@@ -7,7 +7,7 @@ filter:
 
 h2. Current lab members
 
-* *Dr. Robert Lee*<br />
+* *"Dr. Robert Lee":http://users.ox.ac.uk/~xpsy0507*<br />
 Project: Colour appearance in a dynamic world<br />
 Funding: "Wellcome Trust":http://www.wellcome.ac.uk/<br />
 PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
@@ -15,7 +15,7 @@ Co-I: "Dr. Nick Holliman":http://www.dur.ac.uk/n.s.holliman/ (University of Durh
 Collaborators: "Prof. Qasim Zaidi":http://www.sunyopt.edu/research/zaidi/ (SUNY College of Optometry) and "Prof. Marty Banks":http://bankslab.berkeley.edu/ (UC Berkeley)<br />
 Start date: July 2011
 
-* *Dr. Laura Young*<br />
+* *"Dr. Laura Young":http://users.ox.ac.uk/~xpsy0535*<br />
 Project: Using instrumentation from astronomy to understand the control of human eye-movements<br />
 Funding: "John Fell Fund":http://www.admin.ox.ac.uk/pras/jff/<br />
 PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
@@ -29,14 +29,14 @@ None
 h2. Previous lab members
 
 * *Dr. Wayne Smith*<br />
-Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
+Project: Sensory storage of spatio-temporal objects: sequences, signs and facial expressions<br />
 Funding: "ESRC":http://www.esrc.ac.uk/<br />
 PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
 Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
 Dates: October 2007 - November 2008
 
-* *"Dr. Rishi Bhardwaj":http://www.dur.ac.uk/psychology/staff/?id=7857*<br />
-Project: "Sensory storage of spatio-temporal objects: sequences, signs and facial expressions":http://tinyurl.com/67mmd6<br />
+* *Dr. Rishi Bhardwaj*<br />
+Project: Sensory storage of spatio-temporal objects: sequences, signs and facial expressions<br />
 Funding: "ESRC":http://www.esrc.ac.uk/<br />
 PI: "Dr. Hannah Smithson":http://hannahsmithson.org/<br />
 Co-I: "Prof. John Mollon":http://vision.psychol.cam.ac.uk/jdmollon/ (University of Cambridge)<br />
