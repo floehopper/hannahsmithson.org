@@ -63,6 +63,8 @@ h2. Published abstracts
 
 * *Sensory memory for motion trajectories.*<br />Bhardwaj R, Mollon JD & Smithson H (2011).<br />"Perception, 40 ECVP Abstract Supplement, 126":http://www.perceptionweb.com/abstract.cgi?id=v110418
 
+* *Reading impairment in the presence of simulated defocus, coma or secondary astigmatism.*<br />Young LK, Smithson HE, Myers RM, Liversedge SP & Love GD (2011).<br />"Adaptive Optics in Vision, Adaptive Optics for Industry and Medicine, Murcia, Spain.":http://congresos.um.es/aoim/aoim2011/paper/view/12941
+
 * *Using Stroop interference to reveal cognitive colour spaces.*<br />Smithson HE & Stockman A (2010).<br />"Journal of Vision, 10(15):7":http://www.journalofvision.org/10/15/7
 
 * *Spatial and temporal adjustments to colour appearance.*<br />Smithson HE & Lee RJ (2010).<br />"Perception, 39, ECVP Abstract Supplement, 13":http://www.perceptionweb.com/abstract.cgi?id=v100637
