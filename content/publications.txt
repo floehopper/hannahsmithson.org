@@ -7,9 +7,10 @@ filter:
 
 h2. Peer-reviewed publications
 
-* *A three-dimensional color space from the 13th century.*<br />Smithson HE, Dinkova-Bruun G, Gasper GEM, Huxtable M, McLeish TCB & Panti C (2012).<br />Journal of the Optical Society of America (A), 29 (2): A346-A352 | "pdf":/research-papers/SmithsonDinkovaBruunGasperHuxtableMcLeishPanti_2012_Grosseteste.pdf
-
-* *Context-dependent judgments of color that might allow color constancy in scenes with multiple regions of illumination.*<br />Lee RJ & Smithson HE (2012).<br />Journal of the Optical Society of America (A), 29 (2): A247-A257 | "pdf":/research-papers/LeeSmithson_2012_MultipleReferencesForColour.pdf
+* *A three-dimensional color space from the 13th century.*<br />Smithson HE, Dinkova-Bruun G, Gasper GEM, Huxtable M, McLeish TCB & Panti C (2012).<br />"Journal of the Optical Society of America (A), 29 (2): A346-A352":http://www.opticsinfobase.org/josaa/abstract.cfm?URI=josaa-29-2-A346 | "pdf":/research-papers/SmithsonDinkovaBruunGasperHuxtableMcLeishPanti_2012_Grosseteste.pdf<br /><br />Related coverage:<br />
+*Master of colour.* Brooks M (2012). "New Scientist, 14 March 2012, p. 52-53":http://www.newscientist.com/article/mg21328551.600-medieval-modern-master-colour-decoded-before-its-time.html | "pdf":/research-papers/BrooksNewScientist_2012_OrderedUniverse.pdf
+ 
+* *Context-dependent judgments of color that might allow color constancy in scenes with multiple regions of illumination.*<br />Lee RJ & Smithson HE (2012).<br />"Journal of the Optical Society of America (A), 29 (2): A247-A257":http://www.opticsinfobase.org/vjbo/abstract.cfm?uri=josaa-29-2-A247 | "pdf":/research-papers/LeeSmithson_2012_MultipleReferencesForColour.pdf
 
 * *Slow updating of the achromatic point after a change in illumination.*<br />Lee RJ, Dawson KA & Smithson HE (2012).<br />"Journal of Vision, 12(1):19 1-22":http://www.journalofvision.org/content/12/1/19 | "pdf":/research-papers/LeeDawsonSmithson_2012_SlowUpdating.pdf
 
