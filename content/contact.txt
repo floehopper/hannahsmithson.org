@@ -11,7 +11,7 @@ h2. <%= @page.title %>
 South Parks Road
 Oxford
 OX1 3UD
-01865 271316
+==+44 (0)1865 271316==
 <%= render :partial => "psychology_email" %>
 
 *Tutorial Fellow*
