@@ -9,8 +9,7 @@ h2. Peer-reviewed publications
 
 * *Distinct contributions to facial emotion perception of foveated vs nonfoveated facial features.*<br />Atkinson AP & Smithson HE (2013).<br />"Emotion Review, 5 (1): 30-35":http://emr.sagepub.com/content/5/1/30.abstract | "pdf":/research-papers/AtkinsonSmithson_2013_EmotionReview.pdf
 
-* *Compatible and incompatible representations in visual sensory storage.*<br />Bhardwaj R, Mollon JD & Smithson HE (2012).<br />"Journal of Vision, 12 (5):1":http://www.journalofvision.org/content/12/5/1 | "pdf":/research-papers/BhardwajMollonSmithson_2012_CompatibleRepresentations.pdf
-1-10
+* *Compatible and incompatible representations in visual sensory storage.*<br />Bhardwaj R, Mollon JD & Smithson HE (2012).<br />"Journal of Vision, 12 (5):1, 1-10":http://www.journalofvision.org/content/12/5/1 | "pdf":/research-papers/BhardwajMollonSmithson_2012_CompatibleRepresentations.pdf
 
 * *A three-dimensional color space from the 13th century.*<br />Smithson HE, Dinkova-Bruun G, Gasper GEM, Huxtable M, McLeish TCB & Panti C (2012).<br />"Journal of the Optical Society of America (A), 29 (2): A346-A352":http://www.opticsinfobase.org/josaa/abstract.cfm?URI=josaa-29-2-A346 | "pdf":/research-papers/SmithsonDinkovaBruunGasperHuxtableMcLeishPanti_2012_Grosseteste.pdf<br /><br />Related coverage:<br />
 *Master of colour.* Brooks M (2012).<br />"New Scientist, 14 March 2012, p. 52-53":http://www.newscientist.com/article/mg21328551.600-medieval-modern-master-colour-decoded-before-its-time.html | "pdf":/research-papers/BrooksNewScientist_2012_OrderedUniverse.pdf
