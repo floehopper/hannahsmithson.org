@@ -1,6 +1,6 @@
 $ORIGIN hannahsmithson.org.
 $TTL 5m
-@ IN A 50.56.222.140
+@ IN A 212.71.250.44
 hannahsmithson.org IN NS a.dns.gandi.net.
 hannahsmithson.org IN NS b.dns.gandi.net.
 hannahsmithson.org IN NS c.dns.gandi.net.
